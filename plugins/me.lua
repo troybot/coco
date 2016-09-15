@@ -1,5 +1,5 @@
 do 
-local function bakury(msg,matches) 
+local function run(msg, matches) 
  if is_sudo(msg) then 
    local sudo = "عزيز موقعك ومعلوماتك هنا 👇🏌"..msg.from.first_name.."\n" 
    .."🆔👤ايديك :("..msg.from.id..")\n" 
@@ -28,7 +28,7 @@ local admin1 = "عزيزي موقعك ومعلوماتك هنا👷👇🏼"
 return reply_msg(msg.id, admin1, ok_cb, true) 
 end 
 if is_momod(msg) then 
-      local admin = "عزيزي موقعك ومعلوماتك هنا 👮👇🏼" "..msg.from.first_name.."\n" 
+      local admin = "عزيزي موقعك ومعلوماتك هنا 👮👇🏼" ..msg.from.first_name.. "\n" 
    .."🆔👤ايديك :("..msg.from.id..")\n" 
    .."🆔📡ايدي الكروب :("..msg.to.id..")\n" 
    .."⛽️معرفك :(@"..(msg.from.username or "لا يوجد")..")\n" 
@@ -37,7 +37,7 @@ if is_momod(msg) then
 return reply_msg(msg.id, admin, ok_cb, true) 
  end 
  if not is_momod(msg) then 
-      local member = "عزيزي موقعك ومعلوماتك هنا🕵👇🏼" "..msg.from.first_name.."\n" 
+      local member = "عزيزي موقعك ومعلوماتك هنا🕵👇🏼" ..msg.from.first_name.. "\n" 
    .."🆔👤ايديك :("..msg.from.id..")\n" 
    .."🆔📡ايدي الكروب :("..msg.to.id..")\n" 
    .."📌معرفك :(@"..(msg.from.username or "لا يوجد")..")\n" 
@@ -51,6 +51,6 @@ return {
   patterns = { 
        "^(موقعي)$", 
   }, 
-  run = marslo, 
+  run = run, 
 } 
 end
