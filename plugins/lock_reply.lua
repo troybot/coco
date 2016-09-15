@@ -14,7 +14,7 @@ do
 
 local function pre_process(msg)
     
-    —Checking mute
+
     local hash = 'mate:'..msg.to.id
     if redis:get(hash) and msg.reply_id and not is_sudo(msg) and not is_owner(msg) and not is_momod(msg) and not is_admin1(msg) then
             delete_msg(msg.id, ok_cb, true)
