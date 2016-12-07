@@ -67,8 +67,12 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 
 * * *
-يطلب رقم خلي رقم البوت ✋🏿😘
-مبروك عليك افضل بوت عل تلي 😍
+يطلب رقم خلي رقم البوت خلي رقم البوت ومبروك عليك احدث سورس ابن العماره  ✋🏿😘
+
+
+سورس 🎗✍ابـ௵ــن﴿﴾ﺄلعـ௵ـماره🎗
+احدث سورس حالياً 🙂👏🏻
+
 
 # Enter a phone number & confirmation code.
 Congratulations, you better bot
@@ -88,9 +92,9 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ```
 😘 مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-#HAIDER : [https://telegram.me/ASDFRTQ)
-#HAIDER : [https://telegram.me/ASDFRTQ)
-#HAIDER : [https://telegram.me/ASDFRTQ)
+HAIDER : [https://telegram.me/ASDFRTQ)
+HAIDER : [https://telegram.me/ASDFRTQ)
+HAIDER : [https://telegram.me/ASDFRTQ)
 
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
-#HAIDER : [https://telegram.me/ASDFRTQ)
+HAIDER : [https://telegram.me/ASDFRTQ)
