@@ -93,4 +93,4 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 #HAIDER : [https://telegram.me/ASDFRTQ)
 
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
-#Dev_BOT :  [https://telegram.me/ASDFRTQ) ☝🏿️✋🏿
+#HAIDER : [https://telegram.me/ASDFRTQ)
