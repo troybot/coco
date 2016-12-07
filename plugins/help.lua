@@ -5,9 +5,9 @@
  / /_   / ___ \    / /_    / ___ \ 
 /____| /_/   \_\  /____|  /_/   \_\
    
-DEV_ @wounds1                                
-DEV_ @moddee123
-DEV_ @lll_5
+DEV_ @ASDFRTQ                                
+DEV_ @ASDFRTQ
+DEV_ @ASDFRTQ
 ]]
 
 do 
@@ -22,7 +22,7 @@ return "👋 اهلا بك يا : "..msg.from.print_name.."\n\n"
 .."🔹- h4- اوامر الحماية (2) للمجموعة  ".."\n" 
 .."🔹- h5- لعرض اوامر اضافية متحة للعضو".."\n" 
 .."ا➖🔹➖🔸➖🔹➖".."\n" 
-.."🚀 #DEV_ @wounds1 \n 🚀 #DEV_ @modee123 \n 🚀 #DEV_ @lll_5 \n 😁👌🏽كروب الدعم👇🏽 \n https://telegram.me/joinchat/BrCTpkDsVBye5EZacU0BIA \n ا➖🔹➖🔸➖🔹➖ ".."\n " 
+.."🚀 #DEV_ @ASDFRTQ \n 🚀 #DEV_ @ASDFRTQ \n 🚀 #DEV_ @ASDFRTQ \n 😁👌🏽كروب الدعم👇🏽 \n https://telegram.me/joinchat/DECA-D6rfoDvKo2Jc-fd6Q\n ا➖🔹➖🔸➖🔹➖ ".."\n " 
 .."🗓  "..os.date("!%A, %B %d, %Y\n", timestamp) 
 
 end 

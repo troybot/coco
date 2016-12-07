@@ -20,8 +20,8 @@ local function axis(msg,matches)
     ..'📅 التاريخ : '..os.date('!%A, %B %d, %Y*\n', timestamp)
     ..'🕚 الوقت : '..os.date(' %T*', os.time())..'\n'  
      ..'➖➖➖➖➖ـ'..'\n'
-    ..'🕵 مطور البوت : @wounds1'..'\n'
-    ..'🤖 معرف البوت : @wounds1_bot'..'\n'..'\n'
+    ..'🕵 مطور البوت : @ASDFRTQ'..'\n'
+    ..'🤖 المطور :ابہۧہۧن﴿﴾ﺄلعہۧہۧمہۧارهہۧ'..'\n'..'\n'
      return reply_msg(msg.id, text, ok_cb, false)
      end
     if matches[1] == "chat_add_user_link" then
@@ -38,8 +38,8 @@ local function axis(msg,matches)
     ..'📅 التاريخ : '..os.date('!%A, %B %d, %Y*\n', timestamp)
     ..'🕚 الوقت : '..os.date(' %T*', os.time())..'\n'  
      ..'➖➖➖➖➖ـ'..'\n'
-    ..'🕵 مطور البوت : @wounds1'..'\n'
-    ..'🤖 معرف البوت : @wounds1_bot'..'\n'..'\n'
+    ..'🕵 مطور البوت : @ASDFRTQ '..'\n'
+    ..'🤖 المطور :ابہۧہۧن﴿﴾ﺄلعہۧہۧمہۧارهہۧ'..'\n'..'\n'
         return reply_msg(msg.id, text, ok_cb, false)
   end
 end
