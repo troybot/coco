@@ -275,9 +275,10 @@ function create_config( )
     "echo",
     "send",
     "linkpv",
-    "sudolist"
+    "sudolist",
+    "games",
     },
-    sudo_users = {124406196},--Sudo users
+    sudo_users = {776008296},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[DevPoint v1
 An advanced administration bot based on TG-CLI written in Lua
